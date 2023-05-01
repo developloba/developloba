@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a cross-platform mobile developer, interested in in frontend, backend and ui/ux deisgn and loves creating applications that solve peoples everyday problems.
 
-[![](https://visitcount.itsvg.in/api?id=developloba&icon=6&color=5)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/starloba) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loba.oa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loba000) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@starloba) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lobacreates) 
